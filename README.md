@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ahmed</h1>
+<h1 align="center">Hi There 👋, I'm Ahmed Hamdy</h1>
 <h3 align="center">Mobile app developer dedicated to imparting programming knowledge and fostering learning among peers.</h3>
 
 - 🌱 I’m currently learning **FLUTTER Development**
