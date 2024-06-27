@@ -1,6 +1,6 @@
 <h1 align="center">Hi There 👋, I'm Ahmed Hamdy</h1>
 <h3 align="center">Mobile app developer dedicated to imparting programming knowledge and fostering learning among peers.</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kimjayden&label=Profile%20views&color=0e75b6&style=flat" alt="kimjayden" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kimjayden&label=Profile%20views&color=0e75b6&style=flat" alt="SiNfuuL" /> </p>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif"/>
 
 
