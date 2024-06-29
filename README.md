@@ -10,13 +10,13 @@
 - 📫 How to reach me **ahmedhamdy11112233@gmail.com**
 
 - ⚡ Fun fact **always learning**
-
+</ul>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ahmed_hamdi1001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ahmed_hamdi1001" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/in/ahmedhamdii00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/ahmedhamdii00" height="30" width="40" /></a>
 </p>
-
+</ul>
 
 
 <h3 align="left">Languages and Tools:</h3>
