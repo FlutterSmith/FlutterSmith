@@ -1,5 +1,5 @@
 <h1 align="center">Hi There 👋, I'm Ahmed Hamdy</h1>
-<h3 align="center">Mobile app developer dedicated to imparting programming knowledge and fostering learning among peers.</h3>
+<h3 align="center">👀 I'm a Software Engineer, I live in Egypt and I'm currently....</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=FlutterSmith&label=Profile%20views&color=0e75b6&style=plastic" alt="FlutterSmith" /> </p>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif"/>
 
