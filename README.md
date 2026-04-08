@@ -41,8 +41,6 @@
 
 <hr></hr>
 
-<h3 align="center">📈 Contribution Graph</h3>
-
 <div align="center">
   <a href="https://github.com/FlutterSmith">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=FlutterSmith&theme=tokyo-night&hide_border=true&area=true&bg_color=1a1b27" alt="Activity Graph" />
@@ -50,8 +48,6 @@
 </div>
 
 <hr></hr>
-
-<h3 align="center">🐍 Watch the Snake Eat My Contributions</h3>
 
 <div align="center">
   <picture>
