@@ -28,7 +28,7 @@
 
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FlutterSmith&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=1a1b27" height="180" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-phi-peach-18.vercel.app/api?username=FlutterSmith&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=1a1b27" height="180" alt="GitHub Stats" />
   &nbsp;&nbsp;
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=FlutterSmith&theme=tokyonight&hide_border=true&background=1a1b27" height="180" alt="GitHub Streak" />
 </div>
@@ -36,7 +36,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FlutterSmith&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&langs_count=10" height="180" alt="Top Languages" />
+  <img src="https://github-readme-stats-phi-peach-18.vercel.app/api/top-langs/?username=FlutterSmith&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&langs_count=10" height="180" alt="Top Languages" />
 </div>
 
 <hr></hr>
