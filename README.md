@@ -5,7 +5,7 @@
 
 
 
-- 🌱 I’m currently learning **FLUTTER Development**
+- 🌱 I'm currently learning **FLUTTER Development**
 
 - 📫 How to reach me **ahmedhamdy11112233@gmail.com**
 
@@ -27,8 +27,37 @@
 <hr></hr>
 
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=FlutterSmith&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=1a1b27" height="180" alt="GitHub Stats" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FlutterSmith&theme=tokyonight&hide_border=true&background=1a1b27" height="180" alt="GitHub Streak" />
+</div>
+
 <br/>
-  &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FlutterSmith&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="FlutterSmith" height="192px"/>
-  <br/>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FlutterSmith&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&langs_count=10" height="180" alt="Top Languages" />
+</div>
+
+<hr></hr>
+
+<h3 align="center">📈 Contribution Graph</h3>
+
+<div align="center">
+  <a href="https://github.com/FlutterSmith">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=FlutterSmith&theme=tokyo-night&hide_border=true&area=true&bg_color=1a1b27" alt="Activity Graph" />
+  </a>
+</div>
+
+<hr></hr>
+
+<h3 align="center">🐍 Watch the Snake Eat My Contributions</h3>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FlutterSmith/FlutterSmith/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FlutterSmith/FlutterSmith/output/github-snake.svg" />
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/FlutterSmith/FlutterSmith/output/github-snake-dark.svg" />
+  </picture>
+</div>
 
