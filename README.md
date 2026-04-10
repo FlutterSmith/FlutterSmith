@@ -43,7 +43,7 @@
 
 <div align="center">
   <a href="https://github.com/FlutterSmith">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=FlutterSmith&theme=tokyo-night&hide_border=true&area=true&bg_color=1a1b27" alt="Activity Graph" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=FlutterSmith&theme=tokyo-night&hide_border=true&area=true&bg_color=1a1b27&custom_title=%20" alt="Activity Graph" />
   </a>
 </div>
 
